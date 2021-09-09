@@ -1,0 +1,31 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+#game{
+  position: relative;
+  left:500px;
+  bottom: 100px;
+}
+.details{
+  padding:30px;
+  padding-top: 0px;
+  font-family: 'Balsamiq Sans', cursive;
+}
+.text{
+  font-family: 'Balsamiq Sans', cursive;
+  margin:0px;
+  padding-left:20px;
+  font-size:40px;
+  position:relative;
+  left:600px;
+  bottom: 100px;
+}
+#text{
+  padding-left:50px;
+
+}
